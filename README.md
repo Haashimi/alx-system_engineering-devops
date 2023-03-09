@@ -1,1 +1,1 @@
-first readme file on the project
+shell basics 
